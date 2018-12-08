@@ -1,0 +1,165 @@
+
+body{
+    background-color: white;
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    background-color: #000;
+    height: 49%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+    border-radius: 15px;
+}
+li a {
+    display: block;
+    width: 60px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    background-color: #000;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+    width: 100%
+}
+ul {
+    border: 1px solid white;
+}
+
+li {
+    text-align: center;
+    border-bottom: 1px solid white;
+}
+
+li:last-child {
+    border-bottom: 1px solid white;
+}
+.active {
+    background-color: #555;
+    color: white;
+}
+div{
+    width: 100%;
+    color: #000;
+    height: 80px;
+    border-bottom: 1px solid #000;
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.header{
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-top: 18px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #000;
+    font-family: 'Open Sans', sans-serif;
+}
+.arithmetic{
+    color: white;
+    margin-left: 16%;
+    margin-top: 3%;
+    padding-left: 15px;
+    border: 1px solid #000;
+    font-size: 12px;
+    border-radius: 10px;
+    width: 50%;
+    height: 20%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQoqjtNCZxbsYFeABMdfoFd_YeTFlJHMbeqpOYDD0R7RmJ_QJc);
+}
+.box1{
+    font-size: 20px;
+    padding-left: 1px;
+    color: blue;
+}
+.box2{
+    font-size: 20px;
+    padding-left: 1px;
+    color: blue;
+}
+.geometry{
+    color: white;
+    margin-left: 16%;
+    margin-top: 3%;
+    padding-left: 15px;
+    border: 1px solid #000;
+    font-size: 12px;
+    border-radius: 10px;
+    width: 50%;
+    height: 20%;
+    background-image: url(https://cdn1.vectorstock.com/i/1000x1000/98/05/abstract-red-and-orange-triangle-shapes-background-vector-1829805.jpg);
+}
+.box3{
+    font-size: 20px;
+    padding-left: 1px;
+    color: blue;
+}
+.algebra{
+    color: #000;
+    margin-left: 16%;
+    margin-top: 3%;
+    padding-left: 15px;
+    border: 1px solid #000;
+    font-size: 12px;
+    border-radius: 10px;
+    width: 50%;
+    height: 20%;
+    background-image: url(https://safiramericanschool.com/wp-content/uploads/2018/07/Algebra-I-.jpg);
+}
+.box4{
+    font-size: 20px;
+    padding-left: 1px;
+    color: blue;
+}
+.trig{
+    color: white;
+    margin-left: 16%;
+    margin-top: 3%;
+    padding-left: 15px;
+    border: 1px solid #000;
+    font-size: 12px;
+    border-radius: 10px;
+    width: 50%;
+    height: 20%;
+    background-image: url(https://image.shutterstock.com/image-vector/background-design-sine-waves-lights-260nw-659552986.jpg);
+}
+.box5{
+    font-size: 20px;
+    padding-left: 1px;
+    color: blue;
+}
+.calculus{
+    color: #000;
+    margin-left: 16%;
+    margin-top: 3%;
+    padding-left: 15px;
+    border: 1px solid #000;
+    font-size: 12px;
+    border-radius: 10px;
+    width: 50%;
+    height: 30%;
+    background-image: url(https://webgradients.com/public/webgradients_png/030%20Happy%20Fisher.png);
+}
